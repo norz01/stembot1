@@ -1,0 +1,15 @@
+# requirements.txt
+
+streamlit>=1.17.0
+requests
+python-docx
+fpdf2
+pandas
+openpyxl
+python-pptx
+Pillow
+pytesseract
+PyMuPDF
+bcrypt
+
+#Tesseract OCR
